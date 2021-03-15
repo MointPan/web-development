@@ -1,0 +1,18 @@
+PROGRAM SarahRevere(INPUT, OUTPUT);
+USES DOS;
+VAR
+  Lanterns: STRING;
+BEGIN
+  WRITELN('Content-Type: text/plain');
+  Lanterns := GetEnv('QUERY_STRING');
+  WRITELN;
+  WRITE('The British are coming by ');
+  IF Lanterns = 'lanterns=1'
+  THEN
+    WRITELN('land.');
+  IF Lanterns = 'lanterns=2'
+  THEN
+    WRITELN('sea.');
+  ELSE
+    WRITELN('Sarah didn''t say.');
+End.
