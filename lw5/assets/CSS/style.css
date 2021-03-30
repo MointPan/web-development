@@ -1,0 +1,57 @@
+* 
+{
+  font-family: "Open Sans";
+}
+
+body 
+{
+    margin: 0;
+    width: 100%;
+}
+
+.Intro 
+{
+    position: relative;
+    width: 100%;
+    margin: 0;
+    background: url(../background.png) top left no-repeat;
+    background-size: cover;
+    z-index: 9;
+}
+
+.Welcome-Logo 
+{
+  position: relative;
+  float: left;
+  width: 111.5px;
+  height: 41.45px;
+  margin-top: 31.55px;
+  margin-left: 296px;
+  z-index: 56;
+}
+
+.Welcome-Menu 
+{
+    position: relative;
+}
+
+.Menu-List 
+{	
+  list-style-type: none;	
+  font-size: 14px;
+  color: rgb(244, 245, 249);
+  text-transform: uppercase;
+  margin-left: 30px;
+  line-height: 3;
+  padding: 0;
+  height: 70px;
+  z-index: 52;
+}
+
+.List__Element 
+{
+  text-align: left;
+  float: left;
+  margin-right: 58.3px;
+  font-weight: 400;
+}

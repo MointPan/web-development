@@ -1,0 +1,404 @@
+.Header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 56;
+}
+.Naviagation {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 55;
+}
+.Menu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 54;
+}
+.Shape_170 {
+  border-width: 1px;
+  border-color: rgb(231, 76, 60);
+  border-style: solid;
+  position: absolute;
+  left: 815px;
+  top: 92px;
+  width: 42px;
+  height: 0;
+  z-index: 53;
+}
+.HOME________________ABOUT_US________________POR {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(231, 76, 60);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 810.937px;
+  top: 56.6px;
+  z-index: 52;
+}
+.Logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 50;
+}
+.INO {
+  font-size: 41.538px;
+  font-family: "OpenSans";
+  color: rgb(241, 235, 231);
+  line-height: 1.156;
+  -moz-transform: matrix( 0.86127167630058,0,0,0.86666666666667,0,0);
+  -webkit-transform: matrix( 0.86127167630058,0,0,0.86666666666667,0,0);
+  -ms-transform: matrix( 0.86127167630058,0,0,0.86666666666667,0,0);
+  position: absolute;
+  left: 434.799px;
+  top: 42.991px;
+  z-index: 49;
+}
+.B {
+  font-size: 41.538px;
+  font-family: "OpenSans";
+  color: rgb(74, 76, 85);
+  font-weight: bold;
+  line-height: 1.156;
+  -moz-transform: matrix( 0.86127167630058,0,0,0.86666666666667,0,0);
+  -webkit-transform: matrix( 0.86127167630058,0,0,0.86666666666667,0,0);
+  -ms-transform: matrix( 0.86127167630058,0,0,0.86666666666667,0,0);
+  position: absolute;
+  left: 391px;
+  top: 43.291px;
+  z-index: 48;
+}
+.Rectangle_1_copy {
+  border-width: 3px;
+  border-color: rgb(244, 245, 249);
+  border-style: solid;
+  position: absolute;
+  left: 415px;
+  top: 40px;
+  width: 94px;
+  height: 46px;
+  z-index: 47;
+}
+.Rectangle_1 {
+  background-color: rgb(244, 245, 249);
+  position: absolute;
+  left: 374px;
+  top: 40px;
+  width: 52px;
+  height: 52px;
+  z-index: 46;
+}
+.Slider {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 43;
+}
+.Arrow {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 42;
+}
+.right {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 41;
+}
+.fa_angle_left {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1843px;
+  top: 448px;
+  width: 12px;
+  height: 21px;
+  z-index: 40;
+}
+.Rounded_Rectangle_3 {
+  border-radius: 2px;
+  background-color: rgb(231, 76, 60);
+  position: absolute;
+  left: 1826px;
+  top: 437px;
+  width: 45px;
+  height: 45px;
+  z-index: 39;
+}
+.left {
+  opacity: 0.251;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 37;
+}
+.fa_angle_left {
+  background-color: rgb(48, 48, 48);
+  position: absolute;
+  left: 65px;
+  top: 450px;
+  width: 12px;
+  height: 21px;
+  z-index: 36;
+}
+.Rounded_Rectangle_3 {
+  border-radius: 2px;
+  background-image: -moz-linear-gradient( 90deg, rgb(244,197,0) 0%, rgb(255,206,0) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(244,197,0) 0%, rgb(255,206,0) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(244,197,0) 0%, rgb(255,206,0) 100%);
+  position: absolute;
+  left: 49px;
+  top: 437px;
+  width: 45px;
+  height: 45px;
+  z-index: 35;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 32;
+}
+.Our_Clients_Are_Our_First_Priority {
+  font-size: 24px;
+  font-family: "SourceSansPro";
+  color: rgb(244, 245, 249);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 777.937px;
+  top: 320.584px;
+  z-index: 31;
+}
+.Lorem_Ipsum_is_simply_dummy_text_of_the_printin {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(203, 198, 192);
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 666.816px;
+  top: 565.25px;
+  width: 580px;
+  height: 62px;
+  z-index: 30;
+}
+.WELCOME_TO_BINO {
+  font-size: 72px;
+  font-family: "OpenSans";
+  color: rgb(244, 245, 249);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 565.937px;
+  top: 376.3px;
+  z-index: 29;
+}
+.Design {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 27;
+}
+.Shape_171_copy {
+  border-width: 1px;
+  border-color: rgb(241, 235, 231);
+  border-style: solid;
+  position: absolute;
+  left: 976px;
+  top: 494px;
+  width: 78px;
+  height: 0px;
+  z-index: 26;
+}
+.Shape_171 {
+  border-width: 1px;
+  border-color: rgb(241, 235, 231);
+  border-style: solid;
+  position: absolute;
+  left: 861px;
+  top: 494px;
+  width: 78px;
+  height: 0px;
+  z-index: 25;
+}
+.Ellipse_3 {
+  border-radius: 50%;
+  background-color: rgb(231, 76, 60);
+  position: absolute;
+  left: 955px;
+  top: 491px;
+  width: 8px;
+  height: 7px;
+  z-index: 24;
+}
+.Get_Started_Button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 22;
+}
+.GET_STARTED_NOW {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.15384615384615,0,0,1.15357142857143,0,0);
+  -webkit-transform: matrix( 1.15384615384615,0,0,1.15357142857143,0,0);
+  -ms-transform: matrix( 1.15384615384615,0,0,1.15357142857143,0,0);
+  position: absolute;
+  left: 782.758px;
+  top: 693.718px;
+  z-index: 21;
+}
+.Rounded_Rectangle_8 {
+  border-radius: 3px;
+  background-color: rgb(231, 76, 60);
+  box-shadow: 0px 2px 4.75px 0.25px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  left: 719px;
+  top: 673px;
+  width: 225px;
+  height: 56px;
+  z-index: 20;
+}
+.Learn_More_Button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 18;
+}
+.LEARN_MORE {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.846;
+  text-align: left;
+  -moz-transform: matrix( 1.15384615384615,0,0,1.15357142857143,0,0);
+  -webkit-transform: matrix( 1.15384615384615,0,0,1.15357142857143,0,0);
+  -ms-transform: matrix( 1.15384615384615,0,0,1.15357142857143,0,0);
+  position: absolute;
+  left: 1053.89px;
+  top: 683.73px;
+  z-index: 17;
+}
+.Rounded_Rectangle_8_copy {
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-radius: 3px;
+  position: absolute;
+  left: 974px;
+  top: 675px;
+  width: 223px;
+  height: 50px;
+  z-index: 16;
+}
+.Down_Icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 3805px;
+  z-index: 14;
+}
+.Forma_1 {
+  background-color: rgb(231, 76, 60);
+  position: absolute;
+  left: 949px;
+  top: 971px;
+  width: 22px;
+  height: 31px;
+  z-index: 13;
+}
+.Ellipse_1 {
+  border-radius: 50%;
+  background-color: rgb(244, 245, 249);
+  position: absolute;
+  left: 927px;
+  top: 954px;
+  width: 64px;
+  height: 64px;
+  z-index: 12;
+}
+.Ellipse_1_copy {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.251;
+  position: absolute;
+  left: 922px;
+  top: 949px;
+  width: 74px;
+  height: 74px;
+  z-index: 11;
+}
+.Background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 192px;
+  height: 3805px;
+  z-index: 9;
+}
+.Foreground {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.702;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1921px;
+  height: 991px;
+  z-index: 8;
+}
+.Foreground_copy {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1921px;
+  height: 991px;
+  z-index: 6;
+}
+.background {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -2px;
+  top: 867px;
+  width: 1920px;
+  height: 1263px;
+  z-index: 3;
+}
