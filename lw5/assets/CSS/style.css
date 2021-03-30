@@ -1,13 +1,13 @@
 body 
 {
     margin: 0;
-    width: 100%;
+    width: 1519.2px;
 }
 
 .intro 
 {
-    position: relative;
-    width: 100%;
+    position: absolute;
+    width: 1519.2px;
     height: 1000px;
     margin: 0;
     background: url(../background.png) top left no-repeat;
@@ -15,18 +15,25 @@ body
     z-index: 9;
 }
 
+.intro-header
+{
+    position: relative;
+    width: 927.2px;
+    margin: 32px auto 0;
+}
+
 .header-logo 
 {
-  position: relative;
-  float: left;
-  margin-top: 32px;
-  margin-left: 296px;
-  z-index: 56;
+    position: relative;
+    float: left;
+    -webkit-user-select: none;
+    z-index: 56;
 }
 
 .header-menu 
 {
     position: relative;
+    margin-left: 303px;
 }
 
 .menu-list 
@@ -35,15 +42,14 @@ body
     list-style-type: none;	
     text-transform: uppercase;
     margin: 0;
+    padding: 0;
     z-index: 52;
 }
 
 .list__element 
 {
     position: relative;
-    left: 191.4px;
-    top: 34.5px;
-    margin-left: 46.4px;
+    margin: 3px 0 0 46.4px;
     float: left;
     font: 400 11px/3 SansSerif, Open Sans;
     color: #f4f5f9;
@@ -63,16 +69,39 @@ body
     color: #e74c3c;
 }
 
-.list__element--selected
+.list__selector
 {
     position: relative;
     background-color: #e74c3c;
     width: 35px;
+    margin-left: 46px;
     border-top: 0.1px solid #e74c3c;
-    margin-left: 645px;
 }
 
 .slider
 {
-    display: none;
+    position: relative;
+    width: 1441px;
+    margin: 173.5px auto 0;
+}
+
+.slider-text__slogan
+{
+    margin-left: -3px;
+    letter-spacing: 0.955px;
+    font: 400 19px SansSerif, Source Sans Pro;
+    text-transform: capitalize;
+    text-align: center;
+    color: #f4f5f9;
+}
+
+.slider-text__header
+{
+    margin-top: 15.2px;
+    margin-left: 7.75px;
+    font: 700 56.2px SansSerif, Open Sans;
+    text-transform: uppercase;
+    letter-spacing: 6.2px;
+    color: #f4f5f9;
+    text-align: center;
 }
