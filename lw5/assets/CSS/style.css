@@ -19,9 +19,7 @@ body
 {
   position: relative;
   float: left;
-  width: 111.5px;
-  height: 41.45px;
-  margin-top: 31.55px;
+  margin-top: 32px;
   margin-left: 296px;
   z-index: 56;
 }
@@ -36,7 +34,7 @@ body
     position: relative;	
     list-style-type: none;	
     text-transform: uppercase;
-    padding: 0;
+    margin: 0;
     z-index: 52;
 }
 
@@ -54,15 +52,24 @@ body
 
 .menu-list::after
 {
-  display: block;
-  content: '';
-  clear: left;
+    display: block;
+    content: '';
+    clear: left;
 }
 
 .list__element--active
 {
     font-weight: 700;
     color: #e74c3c;
+}
+
+.list__element--selected
+{
+    position: relative;
+    background-color: #e74c3c;
+    width: 35px;
+    border-top: 0.1px solid #e74c3c;
+    margin-left: 645px;
 }
 
 .slider
